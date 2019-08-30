@@ -1,0 +1,1 @@
+I think today's lab went really well, as I was able to get just about everything completed. I downloaded the pgAdmin app before class so it made things fairly easy and I didn't have to worry about setting that up during class. All in all, I think I'm in a good spot going forward. 

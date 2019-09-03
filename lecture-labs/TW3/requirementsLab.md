@@ -34,4 +34,8 @@ System that is used for management of photographic images for a newspaper.
  1. How do you organize photos per each user/stakeholder? 
  2. Is there a deault file type or image size that this system would need?
  3. Do the photographers/journalists have the same permissions as the editors/owners?
+ 4. How will the database be structures?
+      * Is is linked to the newspaper? Could pictures be published from here to the newspaper
+ 5. Do users have accounts? How is the system accessed?
+ 
     

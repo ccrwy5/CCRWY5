@@ -1,5 +1,5 @@
 # Thursday Week 3 Lab
-### Chris Rehagen (CCRWY5), Max Balk (MB2KB), Jacob Hollis (JBHKT7), Henry Sills (hes899), Matt Pilgrim (mbpxc4)
+###### Chris Rehagen (CCRWY5), Max Balk (MB2KB), Jacob Hollis (JBHKT7), Henry Sills (hes899), Matt Pilgrim (mbpxc4)
 
 ## Basic Needs
 	- UI [Rating - 1 // Functional]
@@ -20,7 +20,7 @@
 	- Propose contributions/save past contributions [Rating - 2.5 // Functional]
 	- Easy integreation with Augur [Rating - 1 // Functional & System]
 
-## User 1 Needs
+## User Needs
 	- Need to see all projects [Rating - 1 // Functional]
 	- Detect licenses for issues [Rating - 3 // Functional]
 	- Determine project health based on [Rating - 1 // Functional]

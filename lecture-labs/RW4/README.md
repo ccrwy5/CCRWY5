@@ -1,6 +1,6 @@
 # Table of Contents
 
-### Activity Diagrams
+## Activity Diagrams
 
 **File Name: InstructorActivityDiagram.png**   
 Created by: Chris Rehagen  
@@ -14,25 +14,25 @@ Peer Reviewed by: Chris Rehagen
 Created by: Sarah Brooks  
 Peer Reviewed by: Chris Rehagen & Tim Helfant 
 
-### Class Diagram  
+## Class Diagram  
 
 **File Name: classDiagram.png**  
 Created by: Chris Rehagen  
 Peer Reviewed by Tim Helfant  
 
-### State Machine Diagram  
+## State Machine Diagram  
 
 **File Name: stateMachineDiagram.png**   
 Created by: Chris Rehagen  
 Peer Reviewed by Tim Helfant  
 
-### Use Case Diagram  
+## Use Case Diagram  
 
 **File Name: useCaseDiagram.png**    
 Created by: Chris Rehagen  
 Peer Reviewed by Tim Helfant  
 
-### Sequence Diagram
+## Sequence Diagram
 **File Name: LoginSequencediagram.jpg**  
 Created by: Tim Helfant  
 Peer Reviewed by Chris Rehagen  

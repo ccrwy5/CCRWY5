@@ -32,4 +32,9 @@ Peer Reviewed by Tim Helfant
 Created by: Chris Rehagen  
 Peer Reviewed by Tim Helfant  
 
+## Sequence Diagram
+**File Name: LoginSequencediagram.jpg**  
+Created by: Tim Helfant  
+Peer Reviewed by Chris Rehagen  
+
 

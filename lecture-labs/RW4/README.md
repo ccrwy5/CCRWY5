@@ -35,6 +35,11 @@ Peer Reviewed by Tim Helfant
 ## Sequence Diagram
 **File Name: LoginSequencediagram.jpg**  
 Created by: Tim Helfant  
-Peer Reviewed by Chris Rehagen  
+Peer Reviewed by Chris Rehagen 
+
+## ER Diagram
+**File Name: ERDiagram.bmp**
+Created by: Tim Helfant
+Peer Reviewed by Chris Rehagen
 
 

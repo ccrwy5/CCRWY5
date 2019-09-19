@@ -38,8 +38,8 @@ Created by: Tim Helfant
 Peer Reviewed by Chris Rehagen 
 
 ## ER Diagram
-**File Name: ERDiagram.bmp**
-Created by: Tim Helfant
-Peer Reviewed by Chris Rehagen
+**File Name: ERDiagram.bmp**  
+Created by: Tim Helfant  
+Peer Reviewed by Chris Rehagen  
 
 

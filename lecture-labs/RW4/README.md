@@ -1,3 +1,5 @@
+# Table of Contents
+
 ## Activity Diagrams
 
 **File Name: InstructorActivityDiagram.png**   

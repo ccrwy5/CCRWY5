@@ -7,8 +7,8 @@
 Created by: Chris Rehagen  
 Peer Reviewed by: Tim Helfant  
 
-**File Name: Login Activity diagram.bmp**
-![Login Activity diagram](Login Activity diagram.bmp)  
+**File Name: LoginActivitydiagram.bmp**
+![Login Activity diagram](LoginActivitydiagram.bmp)  
 Created by: Tim Helfant  
 Peer Reviewed by: Chris Rehagen  
 

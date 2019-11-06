@@ -22,6 +22,9 @@ The best way this will be accomplished is through pulling data about each projec
 
 ## System Requirements
 
+#### Use Cases
+![](basicLoadingData.png)
+
 #### Functional
   - Have visually appealing and easy to naviagte UI
   - Make API calls to retreive data
@@ -46,6 +49,6 @@ The main item(s) that would need to be purchased is a domain and a web-hosting s
 ## Interfaces
   As mentioned previously, the user interface for this application will be crucial to its success and usability.  
   
-  Ideally, there would be a tab bar at the top of the screen showing all the options that can be displayed, examples of which can be "Repo Groups," "Individiaul Repositories," "Top Health," "About this App," etc.  
+  Ideally, there would be a tab bar at the top of the screen showing all the options that can be displayed, examples of which can be "Repo Groups," "Individiaul Repositories," "Top Health," "About this App," etc. A search function should also be included.  
   
-  Next, there'd be the individual representations of the desired data. Above this, though, will be an option to choose how the data is dislayed (graphically, plain-text data, top-to-worst order, etc). Then below, and depending on the option selected, the data/visualations will be displayed. 
+  Next, there'd be the individual representations of the desired data. Above this, though, will be an option to choose how the data is dislayed (graphically, plain-text data, top-to-worst order, etc). Then below, and depending on the option selected, the data/visualations will be displayed.

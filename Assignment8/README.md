@@ -23,8 +23,10 @@ The best way this will be accomplished is through pulling data about each projec
 ## System Requirements
 
 #### Use Cases
+#### Use Case 1: Loading data
+![](basicLoadingData.png)  
 
-![](basicLoadingData.png)
+#### Use Case 2: Choice how the data is presented:
 ![](visualChoice.png)
 
 #### Functional

@@ -23,7 +23,9 @@ The best way this will be accomplished is through pulling data about each projec
 ## System Requirements
 
 #### Use Cases
+
 ![](basicLoadingData.png)
+![](visualChoice.png)
 
 #### Functional
   - Have visually appealing and easy to naviagte UI

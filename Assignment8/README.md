@@ -19,3 +19,18 @@ The purpose of this project will be to provide the accurate and reliable metrics
 The system is intended to be used by users exploring utilizing a given open source project. With the system, they'll be able to make more confident decisions about which projects they should utilize.  
 
 The best way this will be accomplished is through pulling data about each project and organzing that data into a format that can be input into a graph, table or other visualization so that the data can be easily interpreted. 
+
+## System Requirements
+
+#### Functional
+  - Have visually appealing and easy to naviagte UI
+  - Make API calls to retreive data
+  - Provide visualizations of given statistics/metrics
+  - Error check if there is not relevant/valid data
+
+#### Non-Functional
+  - Documentation available to users
+  - Fast (API calls aren't slow/delayed)
+  - General reliability
+  
+## Design Constraints

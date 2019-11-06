@@ -34,3 +34,18 @@ The best way this will be accomplished is through pulling data about each projec
   - General reliability
   
 ## Design Constraints
+  1. Specific data types needed for each metric
+  2. Web friendly (responsive design, works in all browsers, etc.)
+  3. Interface provides data representations in graphical and optional plain text form
+  4. Hosted online so no need for additional installations or downloads for the users (all you need is the URL and you're set)
+  5. Loading bar/cirlce on the screen during API calls/page loads so the user knows the app is working and isn't frozen
+
+## Purchased Components
+The main item(s) that would need to be purchased is a domain and a web-hosting server to run the app
+  
+## Interfaces
+  As mentioned previously, the user interface for this application will be crucial to its success and usability.  
+  
+  Ideally, there would be a tab bar at the top of the screen showing all the options that can be displayed, examples of which can be "Repo Groups," "Individiaul Repositories," "Top Health," "About this App," etc.  
+  
+  Next, there'd be the individual representations of the desired data. Above this, though, will be an option to choose how the data is dislayed (graphically, plain-text data, top-to-worst order, etc). Then below, and depending on the option selected, the data/visualations will be displayed. 
